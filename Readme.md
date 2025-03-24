@@ -1,4 +1,4 @@
-(Simple Blog Post Application - Django + PostgreSQL)
+
 
 # 📝 Simple Blog Post Application (Django + PostgreSQL)
 
@@ -56,11 +56,7 @@ bash
 Copy
 Edit
 python manage.py migrate
-🔹 Create Superuser (Optional)
-bash
-Copy
-Edit
-python manage.py createsuperuser
+
 🔹 Start Server
 bash
 Copy
